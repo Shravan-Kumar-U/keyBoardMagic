@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(73, 73, 73);
+    color: #e6a309;
+    
+
+}
+
+.project{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    
+    
+}
+table,th,tr,td{
+    border: 3px solid #fbf8f8;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+
+.color{
+    color: aqua;
+    display: block;
+    flex-direction: row;
+    
+    
+}
